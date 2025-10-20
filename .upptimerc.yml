@@ -1,36 +1,33 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: osgpro # Your GitHub organization or username, where this repository lives
+repo: westside-watcher # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Westside Market
+    url: https://www.westsidemarket.com
+  - name: Westside Market (Odoo)
+    url: https://app.westsidemarket.com
+  - name: Westside Market (API)
+    url: https://api.westsidemarket.com/v2/states
+  - name: Westside Market (Members Portal)
+    url: https://members.westsidemarket.com
+  - name: Odoo Development
+    url: https://development.westsidemarket.com
+  - name: Odoo Staging
+    url: https://staging.westsidemarket.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #cname: demo.upptime.js.org
+  baseUrl: /westside-watcher
+  logoUrl: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkBUA_Wf5KFWG2Gc4encOu-ur4v3YoFWs_eQ&s
+  name: Westside
+  introTitle: "**Westside Market** System Status"
+  introMessage: This status page shows uptime data for all Westside websites.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
