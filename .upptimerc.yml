@@ -24,6 +24,7 @@ status-website:
   logoUrl: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkBUA_Wf5KFWG2Gc4encOu-ur4v3YoFWs_eQ&s
   name: Westside
   introTitle: "**Westside Market** System Status"
+  theme: light
   introMessage: This status page shows uptime data for all Westside websites.
   navbar:
     - title: Status
