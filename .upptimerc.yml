@@ -19,8 +19,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
-  baseUrl: /westside-watcher
+  cname: status.westsidemarket.com
+  #baseUrl: /westside-watcher
   logoUrl: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkBUA_Wf5KFWG2Gc4encOu-ur4v3YoFWs_eQ&s
   name: Westside
   introTitle: "**Westside Market** System Status"
