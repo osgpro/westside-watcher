@@ -3,17 +3,17 @@ owner: osgpro # Your GitHub organization or username, where this repository live
 repo: westside-watcher # The name of this repository
 
 sites:
-  - name: Westside Market
+  - name: Website
     url: https://www.westsidemarket.com
-  - name: Westside Market (Odoo)
+  - name: ERP
     url: https://app.westsidemarket.com
-  - name: Westside Market (API)
+  - name: API
     url: https://api.westsidemarket.com/v2/states
-  - name: Westside Market (Members Portal)
+  - name: Portal
     url: https://members.westsidemarket.com
-  - name: Odoo Development
+  - name: Development Environment
     url: https://development.westsidemarket.com
-  - name: Odoo Staging
+  - name: Staging Environment
     url: https://staging.westsidemarket.com
 
 status-website:
@@ -22,7 +22,7 @@ status-website:
   cname: status.westsidemarket.com
   #baseUrl: /westside-watcher
   logoUrl: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkBUA_Wf5KFWG2Gc4encOu-ur4v3YoFWs_eQ&s
-  name: Westside
+  name: Westside Market
   introTitle: "**Westside Market** System Status"
   theme: light
   introMessage: This status page shows uptime data for all Westside websites.
