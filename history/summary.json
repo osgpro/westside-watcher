@@ -22,19 +22,19 @@
     "url": "https://app.westsidemarket.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.westsidemarket.com.ico",
     "slug": "erp",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 915,
-    "timeDay": 756,
-    "timeWeek": 915,
-    "timeMonth": 915,
-    "timeYear": 915,
+    "status": "up",
+    "uptime": "98.76%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.76%",
+    "time": 895,
+    "timeDay": 782,
+    "timeWeek": 895,
+    "timeMonth": 895,
+    "timeYear": 895,
     "dailyMinutesDown": {
-      "2025-10-22": 0
+      "2025-10-22": 20
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://api.westsidemarket.com/v2/states",
     "icon": "https://icons.duckduckgo.com/ip3/api.westsidemarket.com.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 805,
-    "timeDay": 735,
-    "timeWeek": 805,
-    "timeMonth": 805,
-    "timeYear": 805,
+    "status": "up",
+    "uptime": "98.75%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "98.75%",
+    "time": 819,
+    "timeDay": 777,
+    "timeWeek": 819,
+    "timeMonth": 819,
+    "timeYear": 819,
     "dailyMinutesDown": {
-      "2025-10-22": 0
+      "2025-10-22": 20
     }
   },
   {
