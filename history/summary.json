@@ -82,19 +82,19 @@
     "url": "https://development.westsidemarket.com",
     "icon": "https://icons.duckduckgo.com/ip3/development.westsidemarket.com.ico",
     "slug": "development-environment",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3673,
-    "timeDay": 911,
-    "timeWeek": 3673,
-    "timeMonth": 3673,
-    "timeYear": 3673,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 3515,
+    "timeDay": 1303,
+    "timeWeek": 3515,
+    "timeMonth": 3515,
+    "timeYear": 3515,
     "dailyMinutesDown": {
-      "2025-10-28": 0
+      "2025-10-28": 19
     }
   },
   {
