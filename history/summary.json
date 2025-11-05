@@ -43,10 +43,10 @@
     "url": "https://api.westsidemarket.com/v2/states",
     "icon": "https://icons.duckduckgo.com/ip3/api.westsidemarket.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
     "time": 747,
@@ -55,6 +55,7 @@
     "timeMonth": 747,
     "timeYear": 747,
     "dailyMinutesDown": {
+      "2025-11-05": 1,
       "2025-10-23": 15,
       "2025-10-22": 20
     }
@@ -82,10 +83,10 @@
     "url": "https://development.westsidemarket.com",
     "icon": "https://icons.duckduckgo.com/ip3/development.westsidemarket.com.ico",
     "slug": "development-environment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
     "time": 3845,
@@ -94,6 +95,7 @@
     "timeMonth": 3845,
     "timeYear": 3845,
     "dailyMinutesDown": {
+      "2025-11-05": 1,
       "2025-11-04": 16,
       "2025-10-28": 19
     }
