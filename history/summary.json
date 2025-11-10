@@ -4,19 +4,19 @@
     "url": "https://www.westsidemarket.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.westsidemarket.com.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 201,
-    "timeWeek": 328,
-    "timeMonth": 318,
-    "timeYear": 318,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "96.35%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 314,
+    "timeDay": 214,
+    "timeWeek": 318,
+    "timeMonth": 314,
+    "timeYear": 314,
     "dailyMinutesDown": {
-      "2025-11-10": 0
+      "2025-11-10": 53
     }
   },
   {
