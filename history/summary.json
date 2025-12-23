@@ -116,9 +116,9 @@
     "url": "https://staging.westsidemarket.com",
     "icon": "https://icons.duckduckgo.com/ip3/staging.westsidemarket.com.ico",
     "slug": "staging-environment",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,6 +127,8 @@
     "timeWeek": 7065,
     "timeMonth": 8143,
     "timeYear": 8011,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-23": 0
+    }
   }
 ]
