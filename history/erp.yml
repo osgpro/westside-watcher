@@ -1,7 +1,7 @@
 url: https://app.westsidemarket.com
-status: up
-code: 200
-responseTime: 617
-lastUpdated: 2026-01-04T23:01:11.090Z
+status: down
+code: 503
+responseTime: 559
+lastUpdated: 2026-01-05T14:55:10.121Z
 startTime: 2025-10-21T11:12:11.689Z
 generator: Upptime <https://github.com/upptime/upptime>
