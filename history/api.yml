@@ -1,7 +1,7 @@
 url: https://api.westsidemarket.com/v2/states
-status: down
-code: 429
-responseTime: 262
-lastUpdated: 2026-05-16T23:41:02.042Z
+status: up
+code: 200
+responseTime: 775
+lastUpdated: 2026-05-16T23:59:33.618Z
 startTime: 2025-10-21T11:12:13.383Z
 generator: Upptime <https://github.com/upptime/upptime>
