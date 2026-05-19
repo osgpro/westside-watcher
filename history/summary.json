@@ -89,10 +89,10 @@
     "url": "https://members.westsidemarket.com",
     "icon": "https://icons.duckduckgo.com/ip3/members.westsidemarket.com.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
@@ -100,7 +100,9 @@
     "timeWeek": 126,
     "timeMonth": 145,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-19": 1
+    }
   },
   {
     "name": "Development Environment",
@@ -138,18 +140,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.westsidemarket.com.ico",
     "slug": "staging-environment",
     "status": "down",
-    "uptime": "29.95%",
+    "uptime": "29.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "29.95%",
+    "uptimeYear": "29.91%",
     "time": 8011,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 8011,
     "dailyMinutesDown": {
-      "2026-05-19": 32,
+      "2026-05-19": 468,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
