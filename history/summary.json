@@ -89,19 +89,19 @@
     "url": "https://members.westsidemarket.com",
     "icon": "https://icons.duckduckgo.com/ip3/members.westsidemarket.com.ico",
     "slug": "portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
     "time": 178,
-    "timeDay": 108,
-    "timeWeek": 126,
-    "timeMonth": 145,
+    "timeDay": 109,
+    "timeWeek": 124,
+    "timeMonth": 144,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2026-05-19": 1
+      "2026-05-19": 61
     }
   },
   {
@@ -151,7 +151,7 @@
     "timeMonth": 0,
     "timeYear": 8011,
     "dailyMinutesDown": {
-      "2026-05-19": 468,
+      "2026-05-19": 529,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
